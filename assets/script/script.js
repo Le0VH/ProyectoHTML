@@ -1,1 +1,1 @@
-const generaralerta = () => alert("Esta es una alerta");
+const GeneraAlerta = () => alert("Esta es una alerta");
